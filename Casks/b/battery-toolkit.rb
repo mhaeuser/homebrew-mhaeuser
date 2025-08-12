@@ -1,8 +1,8 @@
 cask "battery-toolkit" do
   arch arm: "arm64"
 
-  version "1.7"
-  sha256 "85587f9e467bd9c42b82427a6a1a09108f5c003ce603629955cc2dfb10aff951"
+  version "1.8"
+  sha256 "f3eb00a1b96241e538fb16a2c7586deffc498f68baa3acb05fe195225e7aa204"
 
   url "https://github.com/mhaeuser/Battery-Toolkit/releases/download/#{version}/Battery-Toolkit-#{version}.zip"
   name "Battery Toolkit"
